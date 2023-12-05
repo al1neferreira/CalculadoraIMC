@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="45dp"
+    android:orientation="vertical"
+    tools:context=".ReferenceTableActivity">
+
+    <TextView
+        android:id="@+id/textView_classificacao0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Tabela de referências:"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/textView_classificacao1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="- Menor que 18,5 = Magreza"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView_classificacao2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="- Entre 18,5 e 24,9 = Normal"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView_classificacao3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="- Entre 25,0 e 29,9 = Sobrepeso"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView_classificaca4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="- Entre 30 e 34,9 = Obesidade Classe I"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView_classificaca4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="- Entre 35 e 34,9 = Obesidade Classe II"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView_classificaca4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="- Acima de 40 = Obesidade Classe III"
+        android:textSize="18sp" />
+
+</LinearLayout>
