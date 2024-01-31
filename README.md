@@ -3,7 +3,7 @@ A Calculadora de IMC é o meu primeiro aplicativo desenvolvido para Android.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/home1.png" width="350">&emsp;<img src="/result/home2.png" width="350">&emsp;<img src="/result/result.png" width="350">;&emsp;<img src="/result/result2.png" width="350">
+<img src="/result/home1.png" width="200">&emsp;<img src="/result/home2.png" width="200">&emsp;<img src="/result/result.png" width="200">;&emsp;<img src="/result/result2.png" width="200">
 
 ## Tecnologias
 * Kotlin
