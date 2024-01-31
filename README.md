@@ -1,4 +1,4 @@
-# Calculadora IMC
+# Calculadora de IMC
 A Calculadora de IMC é o meu primeiro aplicativo desenvolvido para Android. 
 
 ## :camera_flash: Screenshots
