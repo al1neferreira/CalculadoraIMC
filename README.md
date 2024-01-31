@@ -22,7 +22,7 @@ A Calculadora de IMC é o meu primeiro aplicativo desenvolvido para Android.
 
 
 ### TODO
-- Melhorar estilização do app
+- Melhorar a estilização do app
 
 ## Author
 Aline Ferreira (follow me on [LinkedIn](https://www.linkedin.com/in/ferreiraline/))
